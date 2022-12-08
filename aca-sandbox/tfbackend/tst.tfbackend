@@ -1,0 +1,5 @@
+    subscription_id      = "1ff80bef-2fb7-4f09-acf8-ea362875c5f3"
+    storage_account_name = "staccterraformprd"
+    container_name       = "c-terraform"
+    key                  = "gh-sbx.tfstate"
+    resource_group_name  = "rg-terraform"
